@@ -1,9 +1,10 @@
 # insta-downloader-bookmark
 
 
-##This repo explains the steps to saving images from instagram 
+## This repo explains the steps to saving images from instagram 
 
 before: save image as --> not possible
+![before](images/before.png)
 after: save image as  --> possible!
 
 
