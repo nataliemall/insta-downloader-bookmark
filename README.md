@@ -5,7 +5,8 @@
 
 before: save as --> instagram photo is not detected as an image
 
-![before](images/before.png | width = 100)
+<img src="images/before.png" width=100>
+![before](images/before.png)
 
 after: save image as  --> possible!
 
