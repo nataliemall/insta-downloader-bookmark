@@ -16,9 +16,9 @@
 
 
 **Step 1:** Create a new bookmark in Google Chrome (any webpage should do)
-<br />
+<br />  
 **Step 2:** Open bookmark manager > edit bookmark
-<br />
+<br />  
 **Step 3:** Change name to ImageSaver; change URL to 
 
 ```javascript:function removeElementsByClass(className){var elements = document.getElementsByClassName(className); while(elements.length > 0){ elements[0].parentNode.removeChild(elements[0]); } }; removeElementsByClass('_9AhH0');```
@@ -29,10 +29,10 @@
 
 <br />
 
-**Step 4:** Click on the desired image on Instagram, then click on the InstaSaver bookmark
-<br />
+**Step 4:** Click on the desired image on Instagram, then click on the ImageSaver bookmark
+<br />  
 **Step 5:** Right-click image and click "Save Image As"
-<br />
+<br />  
 Congratulations, you now have the image saved as a .PNG file!
 
 
