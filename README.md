@@ -1,7 +1,7 @@
 # insta-downloader-bookmark
 
 
-## This repo explains the steps to saving images from instagram 
+## Adding this script to your Chrome bookmarks will let you easily save images from instagram 
 
 **Before:** Right-clicking to Save As --> The instagram photo is not detected as an image- this is the problem!
 
@@ -29,7 +29,7 @@
 
 <br />
 
-**Step 4:** Open image on instagram, refresh page, and click on the bookmark
+**Step 4:** Click on the desired image on instagram, then click on the InstaSaver bookmark
 <br />
 **Step 5:** Right-click image and click "Save Image As"
 <br />
