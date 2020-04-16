@@ -6,7 +6,8 @@
 **Before:** Right-clicking to Save As --> The instagram photo is not detected as an image- this is the problem!
 
 <img src="images/before.png" width=600>
-<br />
+<br /> 
+
 **After:** Save Image As  --> This is now possible!  Follow steps 1 through 5 for similar results. 
 
 <img src="images/after.png" width=600>
