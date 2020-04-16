@@ -3,9 +3,9 @@
 
 ## This repo explains the steps to saving images from instagram 
 
-before: save image as --> not possible
+before: save as --> instagram photo is not detected as an image
 
-![before](images/before.png)
+![before](images/before.png | width = 100)
 
 after: save image as  --> possible!
 
