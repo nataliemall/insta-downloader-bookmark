@@ -5,7 +5,7 @@
 
 **Before:** Right-clicking to Save As --> The instagram photo is not detected as an image- this is the problem!
 
-<img src="images/before.png" width=400>
+<img src="images/before.png" width=600>
 
 <!-- ![before](images/before.png) -->
 
@@ -18,11 +18,11 @@
 
 
 
-Step 1: Create a new bookmark in Google Chrome (any webpage should do)
+**Step 1:** Create a new bookmark in Google Chrome (any webpage should do)
 
-Step 2: Open bookmark manager > edit bookmark
+**Step 2:** Open bookmark manager > edit bookmark
 
-Step 3: Change name to ImageSaver; change URL to 
+**Step 3:** Change name to ImageSaver; change URL to 
 
 ```javascript:function removeElementsByClass(className){var elements = document.getElementsByClassName(className); while(elements.length > 0){ elements[0].parentNode.removeChild(elements[0]); } }; removeElementsByClass('_9AhH0');```
 
@@ -32,9 +32,10 @@ Step 3: Change name to ImageSaver; change URL to
 <!-- ![bookmark](images/bookmark_editor.png) -->
 
 <br />
-Step 4: Open image on instagram, refresh page, and click on the bookmark
+**Step 4:** Open image on instagram, refresh page, and click on the bookmark
 
-Step 5: Right-click image and click "Save Image As"
+
+**Step 5:** Right-click image and click "Save Image As"
 
 Congratulations, you now have the image saved as a .PNG file!
 
