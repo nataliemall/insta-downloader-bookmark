@@ -7,14 +7,14 @@
 
 <img src="images/before.png" width=400>
 
-![before](images/before.png)
+<!-- ![before](images/before.png) -->
 
 <br />
 **After:** Save Image As  --> This is now possible!  Follow steps 1 through 5 for similar results. 
 
 <img src="images/after.png" width=600>
 
-![after](images/after.png)
+<!-- ![after](images/after.png) -->
 
 
 
@@ -29,7 +29,7 @@ Step 3: Change name to ImageSaver; change URL to
 <br />
 <img src="images/bookmark_editor.png" width=600>
 
-![bookmark](images/bookmark_editor.png)
+<!-- ![bookmark](images/bookmark_editor.png) -->
 
 <br />
 Step 4: Open image on instagram, refresh page, and click on the bookmark
