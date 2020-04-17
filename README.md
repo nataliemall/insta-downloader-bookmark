@@ -33,6 +33,6 @@
 <br />  
 **Step 5:** Right-click image and click "Save Image As"
 <br />  
-Congratulations, you now have the image saved as a .PNG file!
+Congratulations, you now have the image saved as a .jpg file
 
 
